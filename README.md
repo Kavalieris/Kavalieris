@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C0013&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?
-color=1E90FF&size=35&center=true&vCenter=true&width=1000&lin es=HELLO,+My+name+is+Igor+Kavalieris;I'm+26+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](htt ps://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F4F1&width=435&separator=%3C&lines=Hello%2Cmy+name+is+Igor;+I'm+26+year+old;+I'm+from+Brazil;+Data+Scientist;+Be+Welcome!)](https://git.io/typing-svg)
 
 ### Main skills: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
